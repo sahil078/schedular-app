@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "area": "Web Development",
+      "availability": ["7:00 PM", "7:30 PM", "8:00 PM"]
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "area": "Data Science",
+      "availability": ["6:00 PM", "6:30 PM", "7:00 PM"]
+    },
+    {
+      "id": "3",
+      "name": "Charlie Brown",
+      "area": "Machine Learning",
+      "availability": ["5:00 PM", "5:30 PM", "6:00 PM"]
+    }
+  ]
+  

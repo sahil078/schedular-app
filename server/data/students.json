@@ -1,0 +1,13 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "interests": ["Web Development", "Data Science"]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "interests": ["Machine Learning", "Web Development"]
+    }
+  ]
+  

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "mentorId": "1",
+    "studentId": "1",
+    "duration": 30,
+    "time": "7:00 PM"
+  },
+  {
+    "id": "2",
+    "mentorId": "2",
+    "studentId": "2",
+    "duration": 45,
+    "time": "6:00 PM"
+  },
+  {
+    "id": "3",
+    "mentorId": "1",
+    "studentId": "1",
+    "duration": 30,
+    "time": "7:00 PM"
+  },
+  {
+    "id": "4",
+    "mentorId": "1",
+    "studentId": "1",
+    "duration": 30,
+    "time": "7:00 PM"
+  },
+  {
+    "id": "5",
+    "mentorId": "1",
+    "studentId": "1",
+    "duration": 45,
+    "time": "30"
+  },
+  {
+    "id": "6",
+    "mentorId": "1",
+    "studentId": "1",
+    "duration": 30,
+    "time": "7:00 PM"
+  }
+]
